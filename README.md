@@ -1,9 +1,13 @@
 # DOE-Hydro
 
+
+
 ## Dependencies
 
  - Python 3.6.5
  - Anaconda: https://docs.anaconda.com/anaconda/install/mac-os, link for setting up Anaconda in macOS
+ - create a directory inside `data/` titled `large_files/`.
+     - Add large datasets, for daily analysis in `large_files/` directory. 
 
  
 ## Conda virtual environment
